@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://javanux.github.io/</loc>
+    <lastmod>2016-11-15T08:30:24+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://javanux.github.io/blog/awk/</loc>
+    <lastmod>2016-11-15T08:30:24+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://javanux.github.io/blog/2016/11/15/tmux/</loc>
+    <lastmod>2016-11-15T07:44:51+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://javanux.github.io/blog/2016/11/15/linux-file-system/</loc>
+    <lastmod>2016-11-15T07:44:51+05:45</lastmod>
+  </url>
+  
+</urlset>

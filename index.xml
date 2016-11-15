@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Things I Learned Today</title>
+    <link>http://javanux.github.io/index.xml</link>
+    <description>Recent content on Things I Learned Today</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>2015 ~ balman</copyright>
+    <lastBuildDate>Tue, 15 Nov 2016 08:30:24 +0545</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+    
+      
+        
+          <item>
+            <title>TMUX</title>
+            <link>http://javanux.github.io/blog/2016/11/15/tmux/</link>
+            <pubDate>Tue, 15 Nov 2016 07:44:51 +0545</pubDate>
+            
+            <guid>http://javanux.github.io/blog/2016/11/15/tmux/</guid>
+            <description>&lt;p&gt;Some people using their blogs as place for sharing links and storing their own opinion on them. In this theme you have separate content type named “link” for this. Every link produces small block of text on your front page (and in RSS feed too) with your comment on it.&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>linux file system</title>
+            <link>http://javanux.github.io/blog/2016/11/15/linux-file-system/</link>
+            <pubDate>Tue, 15 Nov 2016 07:44:51 +0545</pubDate>
+            
+            <guid>http://javanux.github.io/blog/2016/11/15/linux-file-system/</guid>
+            <description>&lt;p&gt;Some people using their blogs as place for sharing links and storing their own opinion on them. In this theme you have separate content type named “link” for this. Every link produces small block of text on your front page (and in RSS feed too) with your comment on it.&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+  </channel>
+</rss>
